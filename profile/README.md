@@ -4,4 +4,4 @@ In 2022, IBM Watson Health became [Merative](https://merative.com), a company co
 
 For more detailed information, start [here](https://github.com/digitalhealthpass/digitalhealthpass)
 
-Want to contribute? [See here](https://github.com/digitalhealthpass/digitalhealthpass/blob/main/CONTRIBUTING.md)
+Want to contribute? [See here](https://github.com/digitalhealthpass/digitalhealthpass/contribute)
